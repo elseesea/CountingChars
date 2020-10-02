@@ -1,0 +1,13 @@
+D:\Users\jamielihyahoo\Documents\LaunchCode\csharp-course\CountingChars\CountingChars\bin\Debug\netcoreapp3.1\CountingChars.exe
+D:\Users\jamielihyahoo\Documents\LaunchCode\csharp-course\CountingChars\CountingChars\bin\Debug\netcoreapp3.1\CountingChars.deps.json
+D:\Users\jamielihyahoo\Documents\LaunchCode\csharp-course\CountingChars\CountingChars\bin\Debug\netcoreapp3.1\CountingChars.runtimeconfig.json
+D:\Users\jamielihyahoo\Documents\LaunchCode\csharp-course\CountingChars\CountingChars\bin\Debug\netcoreapp3.1\CountingChars.runtimeconfig.dev.json
+D:\Users\jamielihyahoo\Documents\LaunchCode\csharp-course\CountingChars\CountingChars\bin\Debug\netcoreapp3.1\CountingChars.dll
+D:\Users\jamielihyahoo\Documents\LaunchCode\csharp-course\CountingChars\CountingChars\bin\Debug\netcoreapp3.1\CountingChars.pdb
+D:\Users\jamielihyahoo\Documents\LaunchCode\csharp-course\CountingChars\CountingChars\obj\Debug\netcoreapp3.1\CountingChars.csprojAssemblyReference.cache
+D:\Users\jamielihyahoo\Documents\LaunchCode\csharp-course\CountingChars\CountingChars\obj\Debug\netcoreapp3.1\CountingChars.AssemblyInfoInputs.cache
+D:\Users\jamielihyahoo\Documents\LaunchCode\csharp-course\CountingChars\CountingChars\obj\Debug\netcoreapp3.1\CountingChars.AssemblyInfo.cs
+D:\Users\jamielihyahoo\Documents\LaunchCode\csharp-course\CountingChars\CountingChars\obj\Debug\netcoreapp3.1\CountingChars.csproj.CoreCompileInputs.cache
+D:\Users\jamielihyahoo\Documents\LaunchCode\csharp-course\CountingChars\CountingChars\obj\Debug\netcoreapp3.1\CountingChars.dll
+D:\Users\jamielihyahoo\Documents\LaunchCode\csharp-course\CountingChars\CountingChars\obj\Debug\netcoreapp3.1\CountingChars.pdb
+D:\Users\jamielihyahoo\Documents\LaunchCode\csharp-course\CountingChars\CountingChars\obj\Debug\netcoreapp3.1\CountingChars.genruntimeconfig.cache
